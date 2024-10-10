@@ -1,4 +1,4 @@
-# JavaScript: Working with Nested Objects in Arrays
+# JavaScript: Working with Nested Objects
 ![JavaScript code snippet showing examples of accessing and modifying properties in nested objects](./assets/images/example.png)
 
 ## Description 📄
