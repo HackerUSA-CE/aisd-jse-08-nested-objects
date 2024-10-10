@@ -19,7 +19,7 @@ Your project should be structured as follows:
 
 ```plaintext
 nested-objects-practice/
-   app.js
+   index.js
 ```
 
 ## 
